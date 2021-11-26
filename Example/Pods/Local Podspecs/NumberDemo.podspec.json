@@ -1,0 +1,22 @@
+{
+  "name": "NumberDemo",
+  "version": "0.1.0",
+  "summary": "A short description of NumberDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/75486736@qq.com/NumberDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "75486736@qq.com": "75486736@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/75486736@qq.com/NumberDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NumberDemo/Classes/**/*"
+}

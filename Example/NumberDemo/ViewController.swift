@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import NumberDemo
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        print(NumberDemo.People.add(n1: 20))
     }
 
     override func didReceiveMemoryWarning() {
